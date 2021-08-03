@@ -1,0 +1,13 @@
+1. Programiranje biranja slika i 24 satno zadrzavanje potom mijenjane
+2. Testiranje programa
+3. Spajanja programa s Windows-om
+
+
+-->Programiranje
+x 1) Učitavanje i pronalaženje direktorija slika
+x 2) Odabir nasumičnih slika
+3) Postavljanje slike na sve ekrane
+4) Čekanje 24h
+
+-->Windows
+1) ...
